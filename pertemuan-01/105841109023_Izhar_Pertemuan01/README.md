@@ -90,6 +90,15 @@ Catatan: jika Anda menggunakan branch berbeda, ganti `main` dengan nama branch A
 
 ---
 
+## Lampiran — Preview Screenshot
+
+Berikut preview screenshot yang dimasukkan ke laporan. Jika Anda ingin mengganti placeholder dengan gambar asli, timpa file di folder `screenshots/` lalu commit.
+
+![Git config](screenshots/02-git-config.png)
+![Git config](screenshots/02-git-config.png)
+![Docker version](screenshots/03-docker-version.png)
+
+
 ## 4. Refleksi singkat
 
 Tuliskan refleksi pribadi di file `refleksi.md` (minimal 100 kata). Contoh topik: harapan dari praktikum, skill yang ingin dikuasai, kendala saat instalasi dan bagaimana Anda mengatasinya.
