@@ -61,6 +61,7 @@ Contoh cara menyisipkan gambar ke dalam laporan (`README.md`) menggunakan path r
 ![Git config](screenshots/02-git-config.png)
 ![Docker version](screenshots/03-docker-version.png)
 ![Docker hello-world](screenshots/04-docker-hello-world.png)
+![Docker hello-world](screenshots/04-docker-hello-world.png)
 ![VS Code extensions](screenshots/05-vscode-extensions.png)
 ```
 
