@@ -1,0 +1,7 @@
+# Refleksi Pribadi - Pertemuan 01
+
+Pertemuan pertama ini memberi saya gambaran yang jelas tentang filosofi DevOps dan pentingnya kolaborasi lintas-tim untuk mempercepat siklus pengembangan perangkat lunak. Proses instalasi alat-alat dasar seperti `git`, `Docker Desktop`, dan VS Code beserta ekstensi membantu saya memahami fondasi teknis yang diperlukan sebelum masuk ke praktik CI/CD yang lebih kompleks. Pada awalnya saya menemukan bahwa konfigurasi `git` masih menggunakan email pribadi; saya memperbaikinya dengan mengganti `user.email` menjadi email institusi sehingga identitas commit saya sesuai ketentuan akademik.
+
+Menjalankan `docker run hello-world` dan melihat output valid memberi saya kepercayaan bahwa Docker telah terpasang dan siap digunakan. Saya menyadari bahwa menggunakan `devcontainer` akan sangat berguna untuk memastikan lingkungan development yang konsisten antar anggota tim, sehingga mengurangi masalah "works on my machine". Oleh karena itu saya berniat mempelajari pembuatan `Dockerfile` sederhana dan konfigurasi `.devcontainer` pada pertemuan berikutnya.
+
+Tujuan pembelajaran saya dari praktikum ini antara lain: (1) menguasai dasar containerization dengan Docker, (2) mampu menulis pipeline CI/CD sederhana untuk otomasi build dan test, dan (3) memahami konsep Infrastructure as Code. Saya juga ingin memperdalam keterampilan monitoring dan logging agar dapat mendeteksi masalah lebih cepat ketika aplikasi berjalan. Secara keseluruhan, pertemuan pertama ini membuat saya lebih termotivasi dan siap untuk tugas praktikum selanjutnya.
